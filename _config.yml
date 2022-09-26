@@ -129,7 +129,8 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:contact@danieltran.me"
     - label: "LinkedIn"
-      url: "fa-brands fa-linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/daniel-tran-eng/"
 
 
 # =============================================================================
@@ -141,7 +142,8 @@ footer:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:contact@danieltran.me"
     - label: "LinkedIn"
-      url: "fa-brands fa-linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/daniel-tran-eng/"
 
 
 # =============================================================================
