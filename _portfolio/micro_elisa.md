@@ -64,7 +64,7 @@ I established the follow design guidelines, each followed by my reasoning:
 3. The device must be analogous to a standard 96-well plate used with ELISA.
 
    *The device must be compatible with the microscopy equipment currently used within the
-    Hughes Laboratory; new equipment would increase costs and violate the 2nd guideline.* <br><br>
+    Hughes Laboratory; new equipment would increase costs and violate the 2<sup>nd</sup> guideline.* <br><br>
 
 4. The device must be as translucent as possible to maximize the accuracy of absorbency
 measurements.
