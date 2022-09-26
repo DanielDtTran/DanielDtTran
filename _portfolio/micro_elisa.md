@@ -7,8 +7,8 @@ toc_sticky: true
 gallery_overview:
   - image_path: /images/portfolio/micro_elisa/device-front.jpg
   - image_path: /images/portfolio/micro_elisa/plate-full.jpg
-  - image_path: /images/portfolio/micro_elisa/channel-serpentine.png
-  - image_path: /images/portfolio/micro_elisa/channel-straight.png
+  - image_path: /images/portfolio/micro_elisa/channel-serpentine.PNG
+  - image_path: /images/portfolio/micro_elisa/channel-straight.PNG
 
 gallery_device_images:
   - image_path: /images/portfolio/micro_elisa/device-tips.jpg
@@ -94,7 +94,7 @@ fabrication time is 24 hours.
 <br>
 
 ## Project Progression
-{% include figure image_path="/images/portfolio/micro_elisa/project_progression.png" %}
+{% include figure image_path="/images/portfolio/micro_elisa/project_progression.PNG" %}
 
 
 ## Design of Micro-Well Channels
@@ -129,7 +129,7 @@ device. The absence of guiding lines indicates where the two halves should be jo
 Plastic molds were created from each of the half plate designs. PDMS can then be poured into
 the mold to construct half of the device.
 
-{% include figure image_path="/images/portfolio/micro_elisa/plate-half-2.png" %}
+{% include figure image_path="/images/portfolio/micro_elisa/plate-half-2.PNG" %}
 
 By employing two of the half plate designs, the complete top-layer of the device (analogous to a
 standard 96-well plate typically used in ELISA) can be constructed.<br><br>
@@ -156,7 +156,7 @@ is capable of ELISA as the technique requires the binding of antibodies.
 
 <div>
 <b>Results</b>
-{% include figure image_path="/images/portfolio/micro_elisa/binding-graph.png" %}
+{% include figure image_path="/images/portfolio/micro_elisa/binding-graph.PNG" %}
 </div>{: .notice--info}
 
 The results suggested that a **bicarbonate buffer yields the greatest binding strength** and
@@ -171,7 +171,7 @@ confirmed that use of ELISA is possible.
 
 <div>
 <b>Results</b>
-{% include figure image_path="/images/portfolio/micro_elisa/fitc_dextran-graph.png" %}
+{% include figure image_path="/images/portfolio/micro_elisa/fitc_dextran-graph.PNG" %}
 </div>{: .notice--info}
 
 Micro-wells with the straight channel returned greater absorbency readings, suggesting that the
