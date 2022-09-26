@@ -10,17 +10,24 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+
+# =============================================================================
+# Theme
+# =============================================================================
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
+# =============================================================================
 # Site Settings
+# =============================================================================
 locale                   : "en-US"
-title                    : "Site Title"
-title_separator          : "-"
+title                    : "Daniel Tran"
+title_separator          : "—"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Daniel Tran"
+description              : "A collection of my academic and personal projects."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : DanielDtTran/danieldttran
@@ -58,7 +65,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -79,7 +86,10 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+
+# =============================================================================
 # Social Sharing
+# =============================================================================
 twitter:
   username               :
 facebook:
@@ -94,7 +104,10 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+
+# =============================================================================
 # Analytics
+# =============================================================================
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
@@ -102,57 +115,38 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+# =============================================================================
 # Site Author
+# =============================================================================
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Daniel Tran"
+  avatar           : "images/avatar.png"
+  bio              : "Bioengineer graduate who's always eager to learn new skills."
+  location         : "Westminster, CA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "mailto:contact@danieltran.me"
+    - label: "LinkedIn"
+      url: "fa-brands fa-linkedin"
 
+
+# =============================================================================
 # Site Footer
+# =============================================================================
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:contact@danieltran.me"
+    - label: "LinkedIn"
+      url: "fa-brands fa-linkedin"
 
 
+# =============================================================================
 # Reading Files
+# =============================================================================
 include:
   - .htaccess
   - _pages
@@ -190,7 +184,9 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
+# =============================================================================
 # Conversion
+# =============================================================================
 markdown: kramdown
 highlighter: rouge
 lsi: false
@@ -198,7 +194,9 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
+# =============================================================================
 # Markdown Processing
+# =============================================================================
 kramdown:
   input: GFM
   hard_wrap: false
@@ -210,20 +208,26 @@ kramdown:
   enable_coderay: false
 
 
+# =============================================================================
 # Sass/SCSS
+# =============================================================================
 sass:
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
+# =============================================================================
 # Outputting
+# =============================================================================
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins (previously gems:)
+# =============================================================================
+# Plugins
+# =============================================================================
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -240,7 +244,9 @@ whitelist:
   - jekyll-include-cache
 
 
+# =============================================================================
 # Archives
+# =============================================================================
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
@@ -269,7 +275,9 @@ tag_archive:
 #     tag: /tags/:name/
 
 
+# =============================================================================
 # HTML Compression
+# =============================================================================
 # - https://jch.penibelst.de/
 compress_html:
   clippings: all
@@ -277,7 +285,9 @@ compress_html:
     envs: development
 
 
+# =============================================================================
 # Defaults
+# =============================================================================
 defaults:
   # _posts
   - scope:
