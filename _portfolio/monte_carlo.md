@@ -1,7 +1,7 @@
 ---
 title: "Monte Carlo Simulations for Protein Folding"
 excerpt: "Investigating protein folding with Monte Carlo simulations in MATLAB."
-number: 3
+number: 4
 header:
     teaser: "/images/portfolio/monte_carlo/teaser.png"
 toc: true
