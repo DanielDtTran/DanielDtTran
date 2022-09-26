@@ -5,4 +5,5 @@ permalink: /portfolio/
 collection: portfolio
 classes: wide
 author_profile: true
+entries_layout: grid
 ---

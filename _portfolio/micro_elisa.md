@@ -1,6 +1,8 @@
 ---
 title: "Micro-ELISA Prototype"
 excerpt: "Microfluidic device for reducing reagent costs with the ELISA technique."
+header:
+    teaser: /images/portfolio/micro_elisa/plate-full_teaser.png
 toc: true
 toc_sticky: true
 
