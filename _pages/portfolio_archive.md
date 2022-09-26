@@ -1,8 +1,7 @@
 ---
 title: Portfolio
-layout: single
+layout: collection
 permalink: /portfolio/
 collection: portfolio
+classes: wide
 ---
-
-Testing this page.
