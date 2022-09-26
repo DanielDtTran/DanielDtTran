@@ -3,7 +3,6 @@ title: "Micro-ELISA Prototype"
 excerpt: "Microfluidic device for reducing reagent costs with the ELISA technique."
 toc: true
 toc_sticky: true
-author_profile: true
 
 gallery_overview:
   - image_path: /images/portfolio/micro_elisa/device-front.jpg
