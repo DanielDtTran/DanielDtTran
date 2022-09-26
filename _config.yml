@@ -147,6 +147,15 @@ footer:
 
 
 # =============================================================================
+# Collections
+# ============================================================================= 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+
+# =============================================================================
 # Reading Files
 # =============================================================================
 include:
@@ -291,6 +300,18 @@ compress_html:
 # Defaults
 # =============================================================================
 defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      related: false
+
   # _posts
   - scope:
       path: ""
