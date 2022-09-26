@@ -22,6 +22,11 @@ gallery_device_images:
 <br><br>
 {% include gallery id="gallery_overview" layout="half" %}
 
+## Device Images
+{% include figure image_path="/images/portfolio/micro_elisa/device-front.jpg" %}
+{% include gallery id="gallery_device_images" layout="half" %}
+<br>
+
 
 ## Motivation
 An ELISA (enzyme-linked immunosorbent assay) is a well-established technique to measure
@@ -87,11 +92,6 @@ fabrication time is 24 hours.
 
 6. **The straight channels seem to be more effective than the serpentine design.** <br><br>
 
-
-## Device Images
-{% include figure image_path="/images/portfolio/micro_elisa/device-front.jpg" %}
-{% include gallery id="gallery_device_images" layout="half" %}
-<br>
 
 ## Project Progression
 {% include figure image_path="/images/portfolio/micro_elisa/project_progression.PNG" %}
