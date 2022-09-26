@@ -105,10 +105,10 @@ designed the serpentine channels as an antithesis to see how narrower chambers a
 increase in total surface area affect the baseline’s behavior.<br><br>
 
 1. **Serpentine**
-   {% include figure image_path="/images/portfolio/micro_elisa/channel-serpentine.png" %}
+   {% include figure image_path="/images/portfolio/micro_elisa/channel-serpentine.PNG" %}
 
 2. **Straight**
-   {% include figure image_path="/images/portfolio/micro_elisa/channel-straight.png" %}
+   {% include figure image_path="/images/portfolio/micro_elisa/channel-straight.PNG" %}
 
 
 ## Design of the Half Plate (Half of 96-Well Plate)
