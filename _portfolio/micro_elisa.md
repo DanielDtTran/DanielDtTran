@@ -3,21 +3,33 @@ title: "Micro-ELISA Prototype"
 excerpt: "Microfluidic device for reducing reagent costs with the ELISA technique."
 number: 1
 header:
-    teaser: /images/portfolio/micro_elisa/plate-full_teaser.png
+   teaser: /images/portfolio/micro_elisa/teaser.png
 toc: true
 toc_sticky: true
 
 gallery_overview:
-  - image_path: /images/portfolio/micro_elisa/device-front.jpg
+  - image_path: /images/portfolio/micro_elisa/device-full-taped-gallery.png
+    url: /images/portfolio/micro_elisa/device-full-taped.png
   - image_path: /images/portfolio/micro_elisa/plate-full.jpg
-  - image_path: /images/portfolio/micro_elisa/channel-serpentine.PNG
-  - image_path: /images/portfolio/micro_elisa/channel-straight.PNG
+    url: /images/portfolio/micro_elisa/plate-full.jpg
+  - image_path: /images/portfolio/micro_elisa/channel-serpentine-gallery.png
+    url: /images/portfolio/micro_elisa/channel-serpentine.png
+  - image_path: /images/portfolio/micro_elisa/channel-straight-gallery.png
+    url: /images/portfolio/micro_elisa/channel-straight.png
 
 gallery_device_images:
-  - image_path: /images/portfolio/micro_elisa/device-tips.jpg
-  - image_path: /images/portfolio/micro_elisa/device-tips-close.jpg
-  - image_path: /images/portfolio/micro_elisa/device-tips-blue.jpg
-  - image_path: /images/portfolio/micro_elisa/device-tips-yellow.jpg
+  - image_path: /images/portfolio/micro_elisa/device-full-taped-gallery.png
+    url: /images/portfolio/micro_elisa/device-full-taped.png
+  - image_path: /images/portfolio/micro_elisa/device-half-taped-gallery.png
+    url: /images/portfolio/micro_elisa/device-half-taped.png
+  - image_path: /images/portfolio/micro_elisa/device-tips-gallery.png
+    url: /images/portfolio/micro_elisa/device-tips.png
+  - image_path: /images/portfolio/micro_elisa/device-tips-close-gallery.png
+    url: /images/portfolio/micro_elisa/device-tips-close.png
+  - image_path: /images/portfolio/micro_elisa/device-tips-blue-gallery.png
+    url: /images/portfolio/micro_elisa/device-tips-blue.png
+  - image_path: /images/portfolio/micro_elisa/device-tips-yellow-gallery.png
+    url: /images/portfolio/micro_elisa/device-tips-yellow.png
 
 ---
 
@@ -26,9 +38,7 @@ gallery_device_images:
 {% include gallery id="gallery_overview" layout="half" %}
 
 ## Device Images
-{% include figure image_path="/images/portfolio/micro_elisa/device-front.jpg" %}
 {% include gallery id="gallery_device_images" layout="half" %}
-<br>
 
 
 ## Motivation
@@ -108,10 +118,10 @@ designed the serpentine channels as an antithesis to see how narrower chambers a
 increase in total surface area affect the baseline’s behavior.<br><br>
 
 1. **Serpentine**
-   {% include figure image_path="/images/portfolio/micro_elisa/channel-serpentine.PNG" %}
+   {% include figure image_path="/images/portfolio/micro_elisa/channel-serpentine.png" %}
 
 2. **Straight**
-   {% include figure image_path="/images/portfolio/micro_elisa/channel-straight.PNG" %}
+   {% include figure image_path="/images/portfolio/micro_elisa/channel-straight.png" %}
 
 
 ## Design of the Half Plate (Half of 96-Well Plate)
