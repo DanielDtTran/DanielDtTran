@@ -3,7 +3,7 @@ title: "Embrylux (Senior Design Project)"
 excerpt: "An embryo screening device for in-vitro fertilization."
 number: 2
 header:
-    teaser: /images/portfolio/embrylux/embrylux-teaser.png
+    teaser: /images/portfolio/embrylux/embrylux-teaser-2.png
 toc: true
 toc_sticky: true
 
@@ -13,7 +13,7 @@ gallery:
 ---
 
 
-{% include figure image_path="/images/portfolio/embrylux/embrylux.png" %}
+{% include figure image_path="/images/portfolio/embrylux/embrylux-2.png" %}
 
 ## Team Website
 I designed the team's website where we elaborate upon our solution, 
