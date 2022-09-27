@@ -1,0 +1,5 @@
+Gallery (half or triple): 600 x 400
+Teaser: 220 x 140
+Header: 1400 h
+
+
