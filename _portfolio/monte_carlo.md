@@ -224,5 +224,5 @@ simulations are shown in the top row. The original structure of each sequence
 {% include gallery id="gallery_d" layout="third" %}
 
 <b>There appears to be a more optimal structure for sequences 1 and 3.
-Sequence 2 seems to already folded in the most optimal structure.</b>
+Sequence 2 seems to already folded into the most optimal structure.</b>
 
