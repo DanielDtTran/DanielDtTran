@@ -21,7 +21,7 @@ gallery_device_images:
 
 ---
 
-[Read PDF for additional details.](/documents/MicroELISA.pdf)
+[Read PDF for additional details.](/documents/MicroELISA.pdf){:target="_blank"}
 <br><br>
 {% include gallery id="gallery_overview" layout="half" %}
 
@@ -146,7 +146,7 @@ polystyrene base layer can be correctly positioned and fused to the device.
 
 
 ## Fabrication
-[Read PDF for full protocol.](/documents/MicroELISA.pdf)
+[Read PDF for full protocol.](/documents/MicroELISA.pdf){:target="_blank"}
 <br><br>
 
 
