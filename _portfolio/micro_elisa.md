@@ -30,6 +30,22 @@ gallery_device_images:
     url: /images/portfolio/micro_elisa/device-tips-blue.png
   - image_path: /images/portfolio/micro_elisa/device-tips-yellow-gallery.png
     url: /images/portfolio/micro_elisa/device-tips-yellow.png
+   
+
+gallery_antibody_binding:
+  - image_path: /images/portfolio/micro_elisa/binding-buffer-gallery.png
+    url: /images/portfolio/micro_elisa/binding-buffer.png
+  - image_path: /images/portfolio/micro_elisa/binding-no_buffer-gallery.png
+    url: /images/portfolio/micro_elisa/binding-no_buffer.png
+  - image_path: /images/portfolio/micro_elisa/binding-1_25-gallery.png
+    url: /images/portfolio/micro_elisa/binding-1_25.png
+  - image_path: /images/portfolio/micro_elisa/binding-2_5-gallery.png
+    url: /images/portfolio/micro_elisa/binding-2_5.png
+  - image_path: /images/portfolio/micro_elisa/binding-5-gallery.png
+    url: /images/portfolio/micro_elisa/binding-5.png
+  - image_path: /images/portfolio/micro_elisa/binding-10-gallery.png
+    url: /images/portfolio/micro_elisa/binding-10.png
+
 
 ---
 
@@ -170,6 +186,7 @@ is capable of ELISA as the technique requires the binding of antibodies.
 <div>
 <b>Results</b>
 {% include figure image_path="/images/portfolio/micro_elisa/binding-graph.PNG" %}
+{% include gallery id="gallery_antibody_binding" layout="half" %}
 </div>{: .notice--info}
 
 The results suggested that a **bicarbonate buffer yields the greatest binding strength** and
