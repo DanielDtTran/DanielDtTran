@@ -1,6 +1,6 @@
 ---
 title: "Custom Twitch.tv Client"
-excerpt: "A custom client for watching multiple livestreams from Twitch.tv simultaneously."
+excerpt: "Custom client for watching multiple livestreams from Twitch.tv simultaneously."
 number: 1
 header:
     image: /images/personal_projects/twitch_client/header.png
