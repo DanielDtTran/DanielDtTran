@@ -1,8 +1,10 @@
 ---
 title: Personal Projects
-layout: single
+layout: collection
 permalink: /personal_projects/
 collection: personal_projects
+sort_by: number
+classes: wide
+author_profile: true
+entries_layout: grid
 ---
-
-Testing this page 2.
