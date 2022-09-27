@@ -1,6 +1,6 @@
 ---
 title: "Credit Activity Tracker"
-excerpt: "An application for tracking monthly credit card usage."
+excerpt: "Application for tracking monthly credit card usage."
 number: 2
 header:
     image: /images/personal_projects/credit_activity/header.png
