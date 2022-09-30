@@ -8,3 +8,7 @@ main:
   # Personal Projects
   - title: "Personal Projects"
     url: /personal_projects/
+
+  # About Me
+  - title: "About Me"
+    url: /about/
