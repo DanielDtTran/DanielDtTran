@@ -22,7 +22,7 @@ sidebar:
 <div class="notice">
     <p><b>Professional Interests</b></p>
     <p>I'm looking to enter the medical devices industry or a related field where I can leverage my experiences towards improving the quality of life.</p>
-    <p>I'm interested in opportunities in which I can develop as a professional; where at the end of the day, I can be proud of my contributions — that someone's quality of life will be improved by my work.</p>
+    <p>I'm interested in opportunities in which I can develop as a professional; where at the end of the day, I can leverage my technical skills and be proud of my contributions — that someone's quality of life will be improved by my work.</p>
 </div>
 
 
